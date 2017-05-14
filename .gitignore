@@ -29,3 +29,7 @@
 *.app
 *.log
 hackerrank/Debug/*
+*.db
+hackerrank/.vs/hackerrank/v14/.suo
+*.db
+hackerrank/.vs/hackerrank/v14/.suo
